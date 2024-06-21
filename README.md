@@ -1,3 +1,3 @@
-# Lama Dev Chat App Starter template
+# Chatter Box
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website is a 
