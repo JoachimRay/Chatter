@@ -72,21 +72,7 @@ const Detail = () => {
                         <img src="./download.png" alt="" className="icon" />          
                     </div>
 
-                    <div className="photoItem">
-                        <div className="photoDetails">
-                        <img src="https://images.pexels.com/photos/24415135/pexels-photo-24415135/free-photo-of-penhaligon-s-paris-boutique.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" /> 
-                        <span>photo_2024_2.png</span>
-                        </div>
-                        <img src="./download.png" alt="" className="icon" />          
-                    </div>
-
-                    <div className="photoItem">
-                        <div className="photoDetails">
-                        <img src="https://images.pexels.com/photos/24415135/pexels-photo-24415135/free-photo-of-penhaligon-s-paris-boutique.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" /> 
-                        <span>photo_2024_2.png</span>
-                        </div>
-                        <img src="./download.png" alt="" className="icon"/>          
-                    </div>
+                    
                 </div>
             </div>
             <div className="option">

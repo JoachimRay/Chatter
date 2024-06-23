@@ -49,7 +49,7 @@
                 width: 100%;
                 padding: 20px;
                 border: none;
-                background-color: #1f8ef1;
+                background-color: #285f21;
                 color: white;
                 border-radius: 5px;
                 cursor: pointer;
@@ -57,7 +57,7 @@
 
                 &:disabled{
                     cursor: not-allowed;
-                    background-color: #1f8ff15d;
+                    background-color: #73ce295d;
                 }
             }
     }

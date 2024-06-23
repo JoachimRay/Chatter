@@ -78,7 +78,7 @@
                 align-self: flex-end;
                 .texts {
                     p {
-                        background-color: #5183fe;
+                        background-color: #285f21;
                     }
                 }
             }
@@ -169,7 +169,7 @@
         }
 
         .sendButton{
-            background-color: #5183fe;
+            background-color: #285f21;
             color: white;
             padding: 10px 20px;
             border: none;
@@ -179,7 +179,7 @@
             &:disabled{
 
                 cursor: not-allowed;
-                background-color: #7595e7;
+                background-color: #285f21;
 
 
             }
