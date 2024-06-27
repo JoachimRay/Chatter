@@ -9,3 +9,15 @@ https://chatterray.netlify.app
 
 
 
+## Login Page 
+
+![image](https://github.com/JoachimRay/Chatter/assets/131645680/297d45c7-8f64-47ea-8f6e-3af3f21e63bd)
+
+The accounts are being managed in Firebase through email and password. 
+
+
+## Chat List
+
+![image](https://github.com/JoachimRay/Chatter/assets/131645680/2e77ca29-3b20-40d4-8e54-df602a926a22)
+
+
